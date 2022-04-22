@@ -1,0 +1,36 @@
+
+
+h1 {text-align: center;}
+h2 {text-align: center;}
+p {text-align: center;}
+.button {text-align: center;}
+form {text-align: center;}
+input{text-align: center;}
+
+
+body {
+    background-image: radial-gradient(#1a01f8, #9000f0);
+    font-family: 'Courier New', Courier, monospace;
+    color: azure;
+}
+
+   
+div { 
+    box-sizing: border-box;
+    width: 100%;
+    border: 100px solid black;
+    float: left;
+    align-content: center;
+    align-items: center;
+}
+   
+form {                                        
+    margin: 0 auto;
+    width: 300px;
+    color:rgb(8, 227, 198);
+    background-color:#190ae8;
+    border-radius:  1px;
+    text-align: center;
+
+
+}
